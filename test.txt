@@ -1,1 +1,11 @@
-qewqewqewqdsadsaddasdasdas
+git remote add origin git@...
+
+if origin exist => git remote rm origin
+
+git pull origin master
+
+git add .
+
+git commit -m ''
+
+git push origin master
